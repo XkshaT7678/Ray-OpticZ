@@ -1,8 +1,8 @@
-## PHYMULATOR 2024 - Ray Optics Simulation
+# PHYMULATOR 2024 - Ray Optics Simulation
 
-![Ray Optics](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Refraction_snell's_law.gif/220px-Refraction_snell's_law.gif)
+![Ray Optics](https://upload.wikimedia.org/wikipedia/commons/8/89/RefractionReflecion.svg)
 
-### 🌟 Event Overview
+## 🌟 Event Overview
 **PHYMULATOR (Simulation in Physics)**
 
 **Date of Submission:** 1st August 2024  
@@ -31,12 +31,12 @@ We are using **Replit** as our coding platform to develop and run the simulation
    - Visit the [Replit Project Link](https://replit.com/@sharadrohiniatl/OddGiganticDegrees).
    - Click on the `Fork Repl` button in the top right corner.
 
-![Fork Button](https://i.imgur.com/DA24Bwd.png)
+![Fork Button](https://raw.githubusercontent.com/replit/replit-pics/main/fork-button.png)
 
 2. **Run the Simulation:**
    - Once you have forked the repl, click on the green `Run` button.
 
-![Run Button](https://i.imgur.com/9F6efJr.png)
+![Run Button](https://raw.githubusercontent.com/replit/replit-pics/main/run-button.png)
 
 3. **Explore the Simulation:**
    - Use the interactive interface to adjust parameters and see real-time changes in light refraction.
@@ -50,7 +50,10 @@ We are using **Replit** as our coding platform to develop and run the simulation
 - **PDF Report:** [Read the detailed report](https://www.example.com/report.pdf)
 
 ## 💻 Source Code
-The source code for our simulation can be found in the `main.py` file in this repository.
+The source code for our simulation can be found in the `main.py` file in this repository. Click [here](https://replit.com/@sharadrohiniatl/OddGiganticDegrees#main.py) to view the code.
+
+## 💬 Join the Conversation
+- **WhatsApp Group:** [Join here](https://chat.whatsapp.com/F8Uk5UtFTKA0tiVWAaDzn)
 
 ---
 
