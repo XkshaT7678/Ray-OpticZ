@@ -43,7 +43,7 @@ We are using **Replit** as our coding platform to develop and run the simulation
 - **PDF Report:** [Read the detailed report](https://www.example.com/report.pdf)
 
 ## 💻 Source Code
-The source code for our simulation can be found in the `main.py` file in this repository. Click [here](https://github.com/Xkshat7678/RayOptics-Alpha/main.py) to view the code.
+The source code for our simulation can be found in the `main.py` file in this repository. Click [here](https://github.com/XkshaT7678/Ray-OpticZ/blob/main/main.py) to view the code.
 
 ---
 
