@@ -39,7 +39,7 @@ We are using **Replit** as our coding platform to develop and run the simulation
 2. **Detailed Report:** Includes the physics concepts, source code, AI methodology, data collection, and results.
 
 ### Submission Links
-- **YouTube Video:** [Watch our simulation](https://www.youtube.com/watch?v=example)
+- **YouTube Video:** [Watch our simulation](https://youtu.be/rgJFk4hyeOo?si=-BAI1ZpVGMtGY0Ew)
 - **PDF Report:** [Read the detailed report](https://www.example.com/report.pdf)
 
 ## 💻 Source Code
